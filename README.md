@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://saweria.co/romeoaditya' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://static.wikitide.net/jkt48wikiwiki/8/80/Saweria-logo.png?20221101132217' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://saweria.co/romeoaditya' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gvcf9vy7dhk2nkx30j2wr6n5.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
