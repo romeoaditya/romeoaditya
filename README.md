@@ -81,7 +81,10 @@
 <br/>
 
 <div align="center">
-<a href='https://saweria.co/romeoaditya' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gvcf9vy7dhk2nkx30j2wr6n5.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://saweria.co/romeoaditya' target='_blank'>
+  <img height='80' width='80' style='border-radius:10px;' src='https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gvcf9vy7dhk2nkx30j2wr6n5.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+
 </div>
 
 <br/>
