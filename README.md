@@ -38,6 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,figma,git" />
+    <br>
     <img src="https://skillicons.dev/icons?i=php,laravel,javascript,express,java,mysql" /><br>
 </div>
 
