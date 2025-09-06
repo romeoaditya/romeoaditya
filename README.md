@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace** while balancing school and freelance projects.
  
- 🌱 I’m currently learning **Docker, MERN, AWS**
+ 🌱 I’m currently learning **Docker, Go, Postman**
 
 💬 Ask me about **React, PHP, Laravel... or anything [here](https://github.com/romeoaditya/romeoaditya/issues)**
 
@@ -37,9 +37,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,bootstrap,html,css,tailwind,vscode,github,figma,git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,express,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,go,javascript,express,java,mysql" /><br>
 </div>
 
 <br/>
