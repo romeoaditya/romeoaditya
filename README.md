@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeoaditya&layout=compact&theme=midnight-purple&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0d1a" width="320" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeoaditya&layout=compact&theme=midnight-purple&hide_border=true" width="310" />
 
 🔭 &nbsp;Lagi ngerjain project **Web & Backend**
 
@@ -63,9 +63,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romeoaditya&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d0d1a" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=romeoaditya&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=romeoaditya&theme=midnight-purple&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0d0d1a" height="170" />
+  <img src="https://streak-stats.demolab.com?user=romeoaditya&theme=midnight-purple&hide_border=true" height="170" />
 </div>
 
 <br/>
@@ -77,11 +77,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romeoaditya/romeoaditya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romeoaditya/romeoaditya/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/romeoaditya/romeoaditya/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/romeoaditya/romeoaditya/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
