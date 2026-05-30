@@ -25,13 +25,13 @@
 <br/>
 <br/>
 
-🔭 &nbsp;Lagi ngerjain project **Web & Backend**
+🔭 &nbsp;Working on **school assignments & freelance projects**
 
-🌱 &nbsp;Fokus belajar **Docker · Go · Postman**
+🌱 &nbsp;Currently diving deep into **NestJS & Backend Development**
 
-💬 &nbsp;Tanya soal **React, PHP, Laravel**
+💬 &nbsp;Ask me about **React, PHP, Laravel, or anything web**
 
-⚡ &nbsp;Fullstack = bisa ngerjain semuanya
+⚡ &nbsp;Fullstack dev — comfortable on both sides of the stack
 
 🇮🇩 &nbsp;Based in Indonesia
 
@@ -45,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nest,php,laravel,go,js,express,java,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,php,laravel,go,js,express,java,mysql,postgresql,prisma&theme=dark" />
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker,postman&theme=dark" />
 
