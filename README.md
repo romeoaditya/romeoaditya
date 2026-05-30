@@ -1,5 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=120&section=header" width="100%" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=30&center=true&vCenter=true&width=500&height=65&duration=4000&lines=Hi+there!+👋;I'm+Romeo+Aditya!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=28&center=true&vCenter=true&width=500&height=60&duration=4000&color=58A6FF&lines=I'm+Romeo+Aditya!;Junior+Fullstack+Dev+🇮🇩;Always+learning..." />
 </h1>
 
 <h3 align="center">junior fullstack developer · Indonesia 🇮🇩</h3>
@@ -15,12 +17,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://romeoaditya.vercel.app" target="_blank">
+  <a href="https://romeoaditya.net" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
 <br/>
+<hr/>
 
 <div align="center">
 
@@ -52,8 +55,31 @@
 <br/>
 <hr/>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romeoaditya&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeoaditya&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=romeoaditya&theme=github-dark&hide_border=true" />
+</div>
+
+<br/>
+<hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
   <img src="https://raw.githubusercontent.com/romeoaditya/romeoaditya/output/github-contribution-grid-snake.svg" />
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=80&section=footer" width="100%" />
