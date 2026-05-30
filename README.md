@@ -25,8 +25,6 @@
 <br/>
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeoaditya&layout=compact&theme=midnight-purple&hide_border=true" width="310" />
-
 🔭 &nbsp;Lagi ngerjain project **Web & Backend**
 
 🌱 &nbsp;Fokus belajar **Docker · Go · Postman**
@@ -38,8 +36,6 @@
 🇮🇩 &nbsp;Based in Indonesia
 
 <br/>
-<br/>
-<br/>
 
 ---
 
@@ -49,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=php,laravel,go,js,express,java,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nest,php,laravel,go,js,express,java,mysql&theme=dark" />
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker,postman&theme=dark" />
 
@@ -63,9 +59,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romeoaditya&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=romeoaditya&theme=midnight-purple&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=romeoaditya&theme=midnight-purple&hide_border=true" />
 </div>
 
 <br/>
