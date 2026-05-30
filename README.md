@@ -37,35 +37,23 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚒ Tech Stack</h2>
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 
 <br/>
 
 <div align="center">
-
-**// frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,html,css" />
-
-<br/><br/>
-
-**// backend & languages**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,go,javascript,express,java,mysql" />
-
-<br/><br/>
-
-**// tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker,postman" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,html,css" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,javascript,express,java,mysql" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker,postman" />
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 Contributions</h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br/>
   <img src="https://raw.githubusercontent.com/romeoaditya/romeoaditya/output/github-contribution-grid-snake.svg" />
 </div>
