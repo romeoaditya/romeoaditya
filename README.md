@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=120&section=header" width="100%" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=28&center=true&vCenter=true&width=500&height=60&duration=4000&color=58A6FF&lines=I'm+Romeo+Aditya!;Junior+Fullstack+Dev+🇮🇩;Always+learning..." />
-</h1>
+<h1 align="center">Romeo Aditya</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&size=18&center=true&vCenter=true&width=500&height=45&duration=3000&color=58A6FF&lines=Junior+Fullstack+Developer+🇮🇩;Always+learning,+always+building." />
+</p>
 
 <h3 align="center">junior fullstack developer · Indonesia 🇮🇩</h3>
 
