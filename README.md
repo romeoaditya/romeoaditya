@@ -1,79 +1,84 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=130&section=header&text=Romeo%20Aditya&fontColor=e2e8f0&fontSize=38&fontAlign=50&fontAlignY=65&desc=Junior%20Fullstack%20Developer%20%C2%B7%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlign=50&descAlignY=85&descSize=14" width="100%" />
-
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&lines=Building+for+the+web%2C+front+to+back.;React+%C2%B7+Laravel+%C2%B7+Go+%C2%B7+Docker;Always+learning%2C+always+shipping.;Open+to+collaborate+%F0%9F%9A%80" />
-</p>
-
-<br/>
-
 <div align="center">
-  <a href="mailto:romeoaditya22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/romeoadity_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://romeoaditya.net" target="_blank">
-    <img src="https://img.shields.io/badge/romeoaditya.net-6D28D9?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
+  <img src="./banner.svg" width="100%" />
 </div>
 
 <br/>
-<br/>
 
-🔭 &nbsp;Working on **school assignments & freelance projects**
+<div align="center">
 
-🌱 &nbsp;Currently diving deep into **NestJS & Backend Development**
+# Romeo Aditya Pratama
 
-💬 &nbsp;Ask me about **React, PHP, Laravel, or anything web**
+Junior Fullstack Developer · Indonesia 🇮🇩
 
-⚡ &nbsp;Fullstack dev — comfortable on both sides of the stack
+<a href="https://romeoaditya.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.instagram.com/romeoadity_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:romeoaditya2210@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-🇮🇩 &nbsp;Based in Indonesia
-
-<br/>
-
----
-
-<h3>🛠 &nbsp;Tech Stack</h3>
+</div>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,html,css&theme=dark" />
+Software engineer based in Indonesia, fokus di backend & fullstack web development — NestJS, TypeScript, PostgreSQL, Next.js.
 
-<img src="https://skillicons.dev/icons?i=nestjs,php,laravel,go,js,express,java,mysql,postgresql,prisma&theme=dark" />
+**Currently**
+- Backend Developer Intern @ PT. Mahakam Berkah Bersama
+- Web Developer & UI/UX @ Makpro Digital Agency
+- Software Engineering (RPL) student @ SMK Tunas Media
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker,postman&theme=dark" />
-
-<br/>
 <br/>
 
 ---
-
-<h3>📊 &nbsp;GitHub Stats</h3>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=romeoaditya&theme=midnight-purple&hide_border=true" />
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,laravel,php,go,js,mysql,postgresql,prisma&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker&theme=dark" />
+
 </div>
 
 <br/>
 
 ---
 
-<h3>🐍 &nbsp;Contribution Graph</h3>
-
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/romeoaditya/romeoaditya/output/github-contribution-grid-snake.svg" />
+
+### GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=romeoaditya&theme=midnight-purple&hide_border=true" />
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=90&section=footer" width="100%" />
+---
+
+<br/>
+
+<div align="center">
+
+### Contribution Graph
+
+<img src="https://raw.githubusercontent.com/romeoaditya/romeoaditya/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+*Selengkapnya di [romeoaditya.dev](https://romeoaditya.dev)*
+
+</div>
